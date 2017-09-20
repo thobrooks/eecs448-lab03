@@ -1,0 +1,9 @@
+body{
+    background-image:url(bis.png);
+    background-repeat:repeat;
+}
+p{
+    background-color: yellow;
+    color: red;
+    font-family: Comic Sans MS
+}
