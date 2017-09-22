@@ -5,5 +5,13 @@ body{
 p{
     background-color: yellow;
     color: red;
-    font-family: Comic Sans MS
+    font-family: "Comic Sans MS"
+}
+
+p:hover{
+    background-color:black;
+       }
+p.blood{
+    background-color:red;
+    color:black;
 }
