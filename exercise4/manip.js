@@ -13,5 +13,4 @@ function change()
     pa.style.backgroundColor = "rgb(" + bred + ", " + bgreen + ", " + bblue + ")" ;
     pa.style.borderColor = "rgb(" + red + ", " + green + ", " + blue + ")";
     pa.style.borderWidth = width + "px " +  width + "px " + width + "px " + width + "px";
-    alert(pa.style.borderWidth);
 }
